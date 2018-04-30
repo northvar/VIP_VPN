@@ -55,7 +55,7 @@ sudo gem install lolcat
 clear
 echo "
 ----------------------------------------------
-[√] ยินดีต้อนรับเข้าสู่ : ระบบสคริป Ocspanel.info 
+[√] ยินดีต้อนรับเข้าสู่ : สคริประบบ Ocspanel.info 
 [√] Connect...
 [√] Wellcome : กรุณาทำตามขั้นตอน... [ OK !! ]
 ----------------------------------------------
@@ -89,7 +89,7 @@ apt-get -y install zip unzip
 
 cd /home/vps/public_html/application/views/panel/base
 
-wget https://raw.githubusercontent.com/lnwseed/ocs-topup/master/panelocs.zip
+wget https://raw.githubusercontent.com/lnwseed/FORDVPN/master/panelocs.zip
 
 mv panelocs.zip LTEOCS.zip
 
@@ -117,7 +117,7 @@ clear
 echo "
 ----------------------------------------------
 [√] Source : Ocspanel.info 
-[√] อัพเดตเรียบร้อยครับ
+[√] อัพเดตเรียบร้อยครับ....
 [√] กำลังประมวลผล : ..... [ OK !! ]
 ----------------------------------------------
  " | lolcat
