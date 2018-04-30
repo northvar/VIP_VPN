@@ -125,5 +125,5 @@ echo "
 # info
 clear
 echo "================ การติดตั้งเสร็จสิ้น พร้อมใช้งาน ================" | tee -a log-install.txt
-rm -f /root/install.sh
+rm -f /root/upweb.sh
 cd ~/
